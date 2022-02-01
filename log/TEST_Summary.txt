@@ -1,0 +1,5 @@
+Learning rate (Cosine): 0.000297
+Train() Summary Epoch: [1]	Average Loss 2.905	Average CER 103.014%	Average WER 102.429%
+Val() Summary Epoch: [1]	Average Loss 2.888	Average CER 100.000%	Average WER 100.000%*
+0.0(h) 10.0(m) Taken
+
