@@ -1,12 +1,12 @@
 # Digtial Speech Processing : Automatic Speech Recoginition with libri Speech dataset
 
 ## How to train
-    # setting
+    # Set the environment
     0. Virtual environment (ex: conda) is recommended 
     1. ' pip install -r requirements.txt' or install : numpy, pandas, python-Levenshtein, librosa, numba, matplotlib
-    2. intall pytorch considering your CUDA version : https://pytorch.org/get-started/locally/
+    2. Install pytorch considering your CUDA version : https://pytorch.org/get-started/locally/
     3. ' unzip Libri_data.zip -d ./DSP_project/ ' # unzip dataset
-    4. setting PATHs in train.py and test.py (+ set data path at ./Libri_Data/*.csv files)
+    4. Set PATHs in train.py and test.py (+ set data path at ./Libri_Data/*.csv files)
     
     # train and test
     5. ' python DSP_ASR_LibriSpeech/train.py '
@@ -18,8 +18,8 @@
 - Python 3.8
 
 ## Dataset
-: part of Libri Speech Clean data 360 (label length is under 150)
-    - download it from online.
+: Part of Libri Speech Clean data 360 (label length is under 150)
+    - Download it from online
 
 ## Base Model
 : Location based Attention 
@@ -36,7 +36,7 @@
 
 ## Reference
 - specaugmentation code : https://github.com/SeanNaren/deepspeech.pytorch
-- Model (Clova Call) : https://github.com/clovaai/ClovaCall
+- Model (CLOVA Call) : https://github.com/clovaai/ClovaCall
 
 ## For Beginners
 ### Keywords, good to study
@@ -50,6 +50,6 @@
 
 ## For students taking DSP class
 ### submit as zip file, including .. 
-- all code files you uesd for training
-- one best trained model(.pth) and test reult 
-- Reoport as pdf (detail will be announced)
+- All code files you uesd for training
+- One best trained model(.pth) and test reult 
+- Report as pdf (detail will be announced)
