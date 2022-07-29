@@ -1,4 +1,4 @@
-# Digtial Speech Processing : Automatic Speech Recoginition with libri Speech dataset
+# Digital Speech Processing : Automatic Speech Recoginition with LibriSpeech dataset
 
 ## How to train
     # Set the environment
