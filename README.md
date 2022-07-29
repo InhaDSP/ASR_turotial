@@ -38,18 +38,18 @@
 - specaugmentation code : https://github.com/SeanNaren/deepspeech.pytorch
 - Model (Clova Call) : https://github.com/clovaai/ClovaCall
 
-# For Beginners
-## key words, good to study
+## For Beginners
+### key words, good to study
 - Listen, attend and spell
 - SpecAugment
 - Learning scheduler
 - teacher forcing
 
-## good reference
+### good reference
 - Paperwithcode for LibriSpeech https://paperswithcode.com/sota/speech-recognition-on-librispeech-test-clean
 
-# For students taking DSP class
-# submit as zip file, including .. 
+## For students taking DSP class
+### submit as zip file, including .. 
 - all code files you uesd for training
 - one best trained model(.pth) and test reult 
 - Reoport as pdf (detail will be announced)
